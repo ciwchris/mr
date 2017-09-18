@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/x11.git]
+checkout = vcsh clone git://github.com/ciwchris/x11.git zsh
